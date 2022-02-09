@@ -28,7 +28,7 @@
 
     Q7. Write a program that: Outputs all odd numbers between 1 and 20 only. 	[3]
 
-    Q8. Create a program that will generate a random number between 1 and 3 and then use this to display a message to either walk 10km for “1”, run 5km for “2” or swim 1km for “3”.											[4]
+    Q8. Create a program that will generate a random number between 1 and 3 and then use this to display a message to either walk 10km for “1”, run 5km for “2” or swim 1km for           “3”.											[4]
 
 
     Q9. The following algorithm prints out the times table of the number entered using a count-controlled loop.								[4]
@@ -41,7 +41,8 @@
 
     Q10. Create a program that calculate and report the average weight of the fruits to two decimal places. The fruits are measured in gram. Two examples of the executing solution are shown below:								[4]
     
-    Q11. 
+    Q11. The flow chart of an algorithm is given. Produce a program based on the flow chart.
+         ![alt text](https://github.com/chudasmat/compsciexercises/blob/main/Flowchart.jpg?raw=true)
          
     Q12. Write a program that:									[5]
       Asks the user to input many cars are available for a trip.
