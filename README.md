@@ -28,7 +28,7 @@
 
     Q7. Write a program that: Outputs all odd numbers between 1 and 20 only. 	[3]
 
-    Q8. Create a program that will generate a random number between 1 and 3 and then use this to display a message to either walk 10km for “1”, run 5km for “2” or swim 1km for           “3”.											[4]
+    Q8. Create a program that will generate a random number between 1 and 3 and then use this to display a message to either walk 10km for “1”, run 5km for “2” or swim 1km for “3”.            [4]
 
 
     Q9. The following algorithm prints out the times table of the number entered using a count-controlled loop.								[4]
