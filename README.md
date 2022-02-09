@@ -42,7 +42,7 @@
     Q10. Create a program that calculate and report the average weight of the fruits to two decimal places. The fruits are measured in gram. Two examples of the executing solution are shown below:								[4]
     
     Q11. The flow chart of an algorithm is given. Produce a program based on the flow chart.
-         ![alt text](https://github.com/chudasmat/compsciexercises/blob/main/Flowchart.jpg?raw=true)
+         https://github.com/chudasmat/compsciexercises/blob/main/Flowchart.png
          
     Q12. Write a program that:									[5]
       Asks the user to input many cars are available for a trip.
